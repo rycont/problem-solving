@@ -1,0 +1,8 @@
+{
+    "swift.path": "/workspaces/problem-solving/swift-6.0.3-RELEASE-ubuntu20.04/usr/bin",
+    "swift.swiftEnvironmentVariables": {
+        "DEVELOPER_DIR": "public"
+    },
+    "lldb.library": "/workspaces/problem-solving/swift-6.0.3-RELEASE-ubuntu20.04/usr/lib/liblldb.so",
+    "lldb.launch.expressions": "native"
+}

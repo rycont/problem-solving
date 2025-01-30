@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:boj1260}",
+            "name": "Debug boj1260",
+            "program": "${workspaceFolder:boj1260}/.build/debug/boj1260",
+            "preLaunchTask": "swift: Build Debug boj1260"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:boj1260}",
+            "name": "Release boj1260",
+            "program": "${workspaceFolder:boj1260}/.build/release/boj1260",
+            "preLaunchTask": "swift: Build Release boj1260"
+        }
+    ]
+}
